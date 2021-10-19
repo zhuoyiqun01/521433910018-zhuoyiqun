@@ -8,6 +8,10 @@
 - 概要描述（文字描述）背景是圈圈和线元素坐标在z轴映射实现的退远效果
 	字体随着音乐进行扭曲/模糊/渐淡特效
 - 截图/视频素材
+- ![新建备忘录](https://user-images.githubusercontent.com/90957083/137934924-9d9cac2c-140c-4dc9-b030-230428d35917.jpeg)
+
 
 ✏️简单描述你的创意内容，将程序运行结果附在这里。
 利用ascII码将"a"到"z"的出现顺序与频率可视化，背景是逐字打出
+<img width="1196" alt="截屏2021-10-19 下午10 29 26" src="https://user-images.githubusercontent.com/90957083/137934960-91a442d2-0b23-4459-ac30-0ec6c3877784.png">
+<img width="1193" alt="截屏2021-10-19 下午10 29 50" src="https://user-images.githubusercontent.com/90957083/137934968-fc06d580-c581-4485-8407-a808eece1e77.png">
