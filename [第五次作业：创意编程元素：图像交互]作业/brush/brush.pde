@@ -4,7 +4,7 @@ int g=0;
 int b=0;
 int flag=0;
 int sw1=19;
-int sw2=19;
+
 void setup() {
   size(1400, 1000);
   noStroke();
@@ -16,14 +16,16 @@ void setup() {
 void draw() {
   rgb();
   strokeweight();
-  text("按'B'画笔 按'E'橡皮",1025,30);
+  text("按'B'画笔 按'E'橡皮 按'S'保存",1025,30);
   if(flag==0){brush();}
   if(flag==1){eraser();}
-  //else{colorcollect();}
 }
 void keyPressed(){
 if(key=='b'){flag=0;}
 if(key=='e'){flag=1;}
+if(key=='s'){saveFrame("image.png");
+text("已保存",1025,50);
+}
 }
 void rgb() {
   noStroke();
