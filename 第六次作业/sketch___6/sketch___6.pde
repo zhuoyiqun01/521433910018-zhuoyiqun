@@ -7,8 +7,6 @@ void setup() {
   size(720, 600);
   noStroke();
   balls = new ArrayList<Ball>();
-  
-  // Start by adding one element
   balls.add(new Ball(width/2, 0, ballWidth));
 }
 
